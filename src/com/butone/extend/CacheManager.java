@@ -35,9 +35,6 @@ public class CacheManager {
 	private static Map<String, BizInfo> bizInfos = new ConcurrentHashMap<String, BizInfo>();
 
 	private static Map<String, CodeDef> codeDefs = new ConcurrentHashMap<String, CodeDef>();
-
-	//	private static Map<String, BizAction> businessActions = new HashMap<String, BizAction>();
-
 	//自定义缓存信息
 	private static Map<String, JSONObject> customInfos = new HashMap<String, JSONObject>();
 
@@ -73,26 +70,6 @@ public class CacheManager {
 			throw new BizSystemException("加载通用编码错误", e);
 		}
 	}
-
-	//	// 暂时为不动产使用,不动产弄完去掉
-	//	private static void loadBusinessActionConfig() {
-	//		String bizRoot = FileSystemWrapper.instance().getBase();
-	//		String fileNmae = bizRoot + "/base_X/system/businessdata/business.config.xml";
-	//		File file = new File(fileNmae);
-	//		if (!file.exists()) {
-	//			throw new RuntimeException("业务操作配置文件不存在!");
-	//		}
-	//		FileInputStream in;
-	//		try {
-	//			in = new FileInputStream(file);
-	//			BusinessActionConfig bActions = (BusinessActionConfig) JaxbUtils.unMarshal(in, "utf-8", BusinessActionConfig.class);
-	//			for (BizAction business : bActions.getSubBizs()) {
-	//				businessActions.put(business.getId(), business);
-	//			}
-	//		} catch (Exception e) {
-	//			throw new RuntimeException(e);
-	//		}
-	//	}
 
 	public static TableConfig getConceptTableConfig(Concept concept) {
 		TableConfig config = (TableConfig) concept.getExtAttributeValue(ModelExtUtils.MODEL_EXT_URI, "tableDef");
@@ -133,10 +110,7 @@ public class CacheManager {
 			bizInfos.remove(bizPath);
 			getBizInfoByProcess(process);
 		}
-		//		businessActions.clear();
 		codeDefs.clear();
-		// loadBusinessActionConfig();
-
 	}
 
 	public static ProcessInfo getProcessInfo(Process process) {
@@ -189,14 +163,6 @@ public class CacheManager {
 		}
 		return bizInfo;
 	}
-
-	//	public static BizAction getBusinessActionConfig(String bizId) {
-	//		if (businessActions.get(bizId) == null) {
-	//			loadBusinessActionConfig();
-	//		}
-	//
-	//		return businessActions.get(bizId);
-	//	}
 
 	public static JSONObject getCustomInfo(String key) {
 		JSONObject result = customInfos.get(key);
