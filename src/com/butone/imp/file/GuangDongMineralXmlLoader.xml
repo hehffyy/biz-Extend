@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APP>
+    <!---->
+    <HEADER>
+        <!---->
+        <APP_NAME>广东省阳春市热水锡多金属矿预查</APP_NAME>
+        <!---->
+        <APP_CATEGORY>探矿权</APP_CATEGORY>
+        <!---->
+        <APP_TYPE>探矿权新立</APP_TYPE>
+        <!---->
+        <APP_DESC/>
+        <!---->
+        <CLIENT>
+            <!---->
+            <CLIENT_ID>GT00044</CLIENT_ID>
+            <!---->
+            <CLIENT_VENDOR>国土资源部信息中心</CLIENT_VENDOR>
+            <!---->
+            <CLIENT_VERSION>5.0</CLIENT_VERSION>
+            <!---->
+            <CLIENT_TITLE>探矿权管理信息系统</CLIENT_TITLE>
+            <!---->
+            <CLIENT_IP/>
+</CLIENT>
+</HEADER>
+    <!--数据区-->
+    <DATA>
+        <!--申请序号-->
+        <ID_APPLYID>15440040</ID_APPLYID>
+        <!--许可证号-->
+        <ID_LICENCEID/>
+        <!--项目档案号-->
+        <ID_ITEM_ARCHIVES_CODE/>
+        <!--项目类型-->
+        <IN_ITEM_TYPE>10</IN_ITEM_TYPE>
+        <!--项目名称-->
+        <NA_ITEM_NAME>广东省阳春市热水锡多金属矿预查</NA_ITEM_NAME>
+        <!--受理日期-->
+        <DT_RECIVE_DATE>2015-4-2</DT_RECIVE_DATE>
+        <!--发证日期-->
+        <DT_DELIVER_CARD_DATE>2015-11-17</DT_DELIVER_CARD_DATE>
+        <!--填表时间-->
+        <DT_WRITE_DATE>2014-9-17</DT_WRITE_DATE>
+        <!--申请人-->
+        <NA_APPLY_PERSON>广东省有色地质勘查院</NA_APPLY_PERSON>
+        <!--勘查单位-->
+        <NA_PERAMBULATE_COMP>广东省有色地质勘查院</NA_PERAMBULATE_COMP>
+        <!--资格证号-->
+        <ID_QUALIFICATION_CARD>01201331100632</ID_QUALIFICATION_CARD>
+        <!--勘查单位地址-->
+        <NA_COMP_ADDRESS>广州市东风东路745号东山紫园商务大厦25楼</NA_COMP_ADDRESS>
+        <!--申请人法人代表-->
+        <NA_CORPORATION_DEPUTY>许少平</NA_CORPORATION_DEPUTY>
+        <!--申请人地址-->
+        <NA_ADDRESS>广州市东风东路745号东山紫园商务大厦25楼</NA_ADDRESS>
+        <!--申请人邮编-->
+        <NA_POST>510080</NA_POST>
+        <!--申请人电话-->
+        <NA_TEL>020－87312094</NA_TEL>
+        <!--申请人联络员-->
+        <NA_LINKMAN>吴晓东</NA_LINKMAN>
+        <!--申请人开户银行-->
+        <NA_ACCOUNT_BANK>中国建设银行股份有限公司广州市东山支行</NA_ACCOUNT_BANK>
+        <!--申请人帐号-->
+        <NA_ACCOUNTS>44001400101050017389</NA_ACCOUNTS>
+        <!--项目标签-->
+        <NA_ITEM_TAG/>
+        <!--经济类型-->
+        <IN_ECONOMY_TYPE>0</IN_ECONOMY_TYPE>
+        <!--单位性质-->
+        <IN_ORGKIND>1</IN_ORGKIND>
+        <!--勘查矿种-->
+        <QT_PERAMBULATE_MINE>32015</QT_PERAMBULATE_MINE>
+        <!--项目性质-->
+        <IN_ITEM_KIND>4</IN_ITEM_KIND>
+        <!--勘查阶段-->
+        <IN_PERAMBULATE_PHASE>4</IN_PERAMBULATE_PHASE>
+        <!--地理位置-->
+        <NA_GEOGRAPHY_POSITION>广东省阳江市阳春市</NA_GEOGRAPHY_POSITION>
+        <!--申请有效期起-->
+        <DT_APPLY_USEFULLIFE_START>2014-9-20</DT_APPLY_USEFULLIFE_START>
+        <!--申请有效期止-->
+        <DT_APPLY_USEFULLIFE_END>2016-9-21</DT_APPLY_USEFULLIFE_END>
+        <!--签发时间-->
+        <DT_SIGNATURE_DATE>2015-11-17</DT_SIGNATURE_DATE>
+        <!--有效期起-->
+        <DT_USEFULLIFE_START>2015-11-17</DT_USEFULLIFE_START>
+        <!--有效期止-->
+        <DT_USEFULLIFE_END>2017-11-16</DT_USEFULLIFE_END>
+        <!--首次设立时间-->
+        <DT_FIRST_INSTAURATION>2015-11-17</DT_FIRST_INSTAURATION>
+        <!--总面积-->
+        <QT_TOTAL_AREA>31.72</QT_TOTAL_AREA>
+        <!--东经起-->
+        <QT_LONGEAST_START>111.4958333</QT_LONGEAST_START>
+        <!--东经止-->
+        <QT_LONGEAST_END>111.5583333</QT_LONGEAST_END>
+        <!--北纬起-->
+        <QT_LATNORTH_START>22.125</QT_LATNORTH_START>
+        <!--北纬止-->
+        <QT_LATNORTH_END>22.1708333</QT_LATNORTH_END>
+        <!--基本区块数-->
+        <QT_BASIC_SECTION>5</QT_BASIC_SECTION>
+        <!--四分之一区块数-->
+        <QT_QTRBASIC_SECTION>14</QT_QTRBASIC_SECTION>
+        <!--小区块数-->
+        <QT_SMALL_SECTION>28</QT_SMALL_SECTION>
+        <!--折成基本区块-->
+        <QT_CONVERTBASIC_SECTION>10.25</QT_CONVERTBASIC_SECTION>
+        <!--价款处置方式-->
+        <NA_COST_TREAMENT/>
+        <!--探矿权取得方式-->
+        <IN_PROSPECT_KIND>1</IN_PROSPECT_KIND>
+        <!--金额-->
+        <QT_COST>0</QT_COST>
+        <!--第一勘查年度-->
+        <QT_FIRST_PERAMBULATE>130</QT_FIRST_PERAMBULATE>
+        <!--第二勘查年度-->
+        <QT_SECOND_PERAMBULATE>175</QT_SECOND_PERAMBULATE>
+        <!--第三勘查年度-->
+        <QT_THIRD_PERAMBULATE>0</QT_THIRD_PERAMBULATE>
+        <!--国家投资-->
+        <QT_STATE_INVEST>0</QT_STATE_INVEST>
+        <!--地方投资-->
+        <QT_LOCALITY_INVEST>100</QT_LOCALITY_INVEST>
+        <!--企业投资-->
+        <QT_ENTERPRISE_INVEST>205</QT_ENTERPRISE_INVEST>
+        <!--外商投资-->
+        <QT_OVERSEAS_INVEST>0</QT_OVERSEAS_INVEST>
+        <!--个人投资-->
+        <QT_INDIVIDUAL_INVEST>0</QT_INDIVIDUAL_INVEST>
+        <!--其他投资-->
+        <QT_OTHER_INVEST>0</QT_OTHER_INVEST>
+        <!--所在行政区-->
+        <NA_CANTON>441781</NA_CANTON>
+        <!--原许可证号-->
+        <ID_OLD_LICENCEID/>
+        <!--原项目名称-->
+        <NA_OLD_ITEM_NAME/>
+        <!--原申请序号-->
+        <ID_OLD_APPLYID/>
+        <!--审查人-->
+        <NA_CHECKUP_PERSON>刘建军</NA_CHECKUP_PERSON>
+        <!--审查日期-->
+        <DT_CHECKUP_DATE>2015-11-13</DT_CHECKUP_DATE>
+        <!--复查-->
+        <NA_CALLBACK>傅培刚2015-11-13</NA_CALLBACK>
+        <!--复核-->
+        <NA_CHECK>杨天源2015-11-16</NA_CHECK>
+        <!--审核-->
+        <NA_AUDIT>吴志伟2015-11-16</NA_AUDIT>
+        <!--签发-->
+        <NA_SIGNATURE>沈绍梅</NA_SIGNATURE>
+        <!--累计缴纳探矿权使用费-->
+        <QT_TOTAL_USEFEE>0</QT_TOTAL_USEFEE>
+        <!--注销类型-->
+        <IN_LOGOUT_TYPE>0</IN_LOGOUT_TYPE>
+        <!--探矿权价款处置情况-->
+        <NA_PROSPECT_TREATMENT/>
+        <!--申请注销理由-->
+        <NA_APPLY_LOGOUT_OPINION/>
+        <!--变更类型-->
+        <IN_CHANGE_TYPE>0</IN_CHANGE_TYPE>
+        <!--变更原因-->
+        <NA_CHANGE_OPINION/>
+        <!--坐标系统-->
+        <IN_COORDINATE_SYSTEM>2</IN_COORDINATE_SYSTEM>
+        <!--实地核查状况-->
+        <NA_SURVEY_STATE>0</NA_SURVEY_STATE>
+        <!--实地核查人-->
+        <NA_SURVEY_PERSON/>
+        <!--实地核查完成时间-->
+        <DT_SURVEY_DATE/>
+        <!--重叠核查人-->
+        <NA_OVERLAP_PERSON>黄斌尤/林国坤</NA_OVERLAP_PERSON>
+        <!--重叠核查单位-->
+        <NA_OVERLAP_DEPARTMENT>阳春市国土资源局</NA_OVERLAP_DEPARTMENT>
+        <!--重叠核查完成时间-->
+        <DT_OVERLAP_DATE>2014-10-13</DT_OVERLAP_DATE>
+        <!--实地核查单位-->
+        <NA_SURVEY_COMPANY/>
+        <!--重叠核查意见-->
+        <NA_OVERLAP_COMMENT>勘查区内与阳春市拟设三甲镇庞北陶瓷土矿采矿权重叠（坐标：1、2430300，37547700；2、2430300，37548300；3、2429700，37548300；4、2429700，37547700；1954北京坐标系）
+1,2430300,37547700
+2,2430300,37548300
+3,2429700,37548300
+4,2429700,37547700
+
+2450620.00,37555522.00
+2450945.00,37555840.00
+2450875.00,37556005.00
+2450555.00,37555685.00</NA_OVERLAP_COMMENT>
+        <!--实地核查坐标-->
+        <NA_SURVEY_COORDINATE/>
+        <!--实地核查意见-->
+        <NA_SURVEY_COMMENT/>
+        <!--区域坐标-->
+        <NA_AREA_COORDINATE>2,4,111.3330,22.0730,111.3330,22.1015,111.2945,22.1015,111.2945,22.0730,0,0,0,4,111.3205,22.0850,111.3240,22.0850,111.3240,22.0925,111.3205,22.0925,-1,0,0,</NA_AREA_COORDINATE>
+        <!--审查人意见-->
+        <NA_CHECKUP_COMMENT>    本项目为新立探矿权申请，根据《矿产资源勘查区块登记管理办法》（国务院令第240号）、国土资源部《关于规范勘查许可证采矿许可证权限有关问题的通知》（国土资发〔2005〕200号）、《国土资源部关于加快推进整装勘查实现找矿重大突破的通知》（国土资发〔2012〕140号）和《广东省人民政府第四轮行政审批事项调整目录》（省政府令第142号）规定，由省国土资源厅办理新立登记手续。
+    本项目属于广东省财政厅《关于下达2014年度省地质勘查基金的通知》（粤财工〔2014〕375号）安排的广东省地质勘查基金项目，安排经费100万元，属于国家出资勘查计划项目，根据《广东省探矿权采矿权招标拍卖挂牌出让管理办法》（粤国土资法规发〔2010〕58号）第六条的规定，以行政审批方式出让探矿权。
+    本项目申请材料齐全，探矿权申请人符合《矿产资源勘查区块登记管理办法》（国务院令第240号）和《国土资源部关于进一步规范探矿权管理有关问题的通知》（国土资发〔2009〕200号）规定的条件，勘查施工单位具备相应的地质勘查资质，《广东省阳春市热水锡多金属矿预查项目总体设计和2014年工作方案》已通过专家组评审。
+    申请勘查区面积32.81平方公里。
+    申请勘查区范围无探矿权设置和省级探矿权申请，与国土资源部来函调查项目《广东省阳春市那井铅锌矿普查》部分重叠；经查询环保规划审查系统，申请勘查范围与《广东省环境保护规划纲要（2006-2020年）》划定的陆域严控区不重叠；符合《广东阳春铜多金属矿整装勘查区矿业权设置方案》要求。
+　　经市国土资源局核查，申请勘查范围与阳春市三甲镇庞北陶瓷土矿拟设采矿权重叠。
+　　经省国土资源档案馆核查，申请勘查范围内无上广东省矿产资源储量表矿区分布。
+　　经矿管处会审，申请勘查范围无省级发证采矿权重叠；与《广东省稀土重点规划区专项规划暨矿业权设置方案（2011～2015年）》相关区块无重叠；符合《广东省矿产资源总体规划》（2008-2015年）；无上表矿区。
+　　经法规处会审，申请勘查范围内目前无行政复议案件。
+　　经财务处会审，国家出资项目新立申请无需缴纳探矿权价款。
+　　经执法监察局会审，无涉及该矿正在查处案件。
+    经信访办会审，无信访情况反映。
+    项目主要内容信息经公开无异议，信息公开编号为粤探出让公开〔2015〕22号。
+    经2015年10月30日探矿权出让会审会议审定，本项目属于省国土资源厅发证权限的国家（省地质勘查基金）出资勘查计划项目，申请材料齐全、手续完备、程序合法，符合《矿产资源勘查区块登记管理办法》（国务院令第240号）和《国土资源部关于进一步规范探矿权管理有关问题的通知》（国土资发〔2009〕200号）新立探矿权登记的有关规定。根据《广东省探矿权采矿权招标拍卖挂牌出让管理办法》(粤国土资法规发〔2010〕58号)第六条“为实施国家出资勘查计划项目申请探矿权的，以行政审批方式出让”的规定，该新立探矿权准予登记。
+    同意广东省有色地质勘查院在广东省阳江市阳春市，进行广东省阳春市热水锡多金属矿预查工作，但须扣除与阳春市三甲镇庞北陶瓷土矿拟设采矿权重叠部分。
+    勘查区内基本单位区块5个、四分之一区块14个、小区块28个，总面积31.72平方公里。勘查区经纬度拐点坐标(1980西安坐标系)：
+111.3330,22.0730
+111.3330,22.1015
+111.2945,22.1015
+111.2945,22.0730
+0,0
+111.3205,22.0850
+111.3240,22.0850
+111.3240,22.0925
+111.3205,22.0925
+-1,0
+    本项目有效期限为自发证之日起：2年。
+    本项目勘查单位为广东省有色地质勘查院。 </NA_CHECKUP_COMMENT>
+        <!--工作任务目的-->
+        <NA_WORK_TASKAIM>以锡为主攻矿种，兼顾综合找矿，以云英岩型、斑岩型锡多金属矿为主攻矿床类型，在热水地区开展1/1万土壤地球化学测量、1/1万地质填图（草测）、高精度磁法剖面测量等工作，圈定异常或矿化地质体；采用地表槽探揭露控制异常或矿化地质体，优选较好的矿化地段（异常）部署钻探工程进行深部揭露控制，初步查明勘查区矿化带及矿体规模、形态和矿化规律，对勘查区内的资源潜力做出初步评价，圈定普查范围。预期提交可供进一步普查的矿产基地1处。</NA_WORK_TASKAIM>
+        <!--工作人员配备-->
+        <NA_WORKPERSON_EQUIP>本项目成立项目组，人员由项目负责（1人）、质量监控组（1 人）、地质作业组（7人）、物探作业组（5人）、化探作业组（3人）、钻探作业组（1人）和测量工程师1人组成。</NA_WORKPERSON_EQUIP>
+        <!--工作量-->
+        <NA_WORKLOAD>1:10000地质测量（草测）32.33平方公里；
+1/10000土壤测量（200×20m）18平方公里
+槽探5000；
+1/10000高精度磁法剖面测量（点距40m）10公里；
+钻探1300；
+</NA_WORKLOAD>
+        <!--备注-->
+        <NA_APPENDIX>1,2430300,37547700
+2,2430300,37548300
+3,2429700,37548300
+4,2429700,37547700
+
+2450620.00,37555522.00
+2450945.00,37555840.00
+2450875.00,37556005.00
+2450555.00,37555685.00</NA_APPENDIX>
+        <!--附件-->
+        <NA_ACCESSORIES>①勘查单位资格证书复印件  1  份；
+②勘查实施方案及附件    3  份；
+③勘查工作计划、勘查合同或者委托勘查的证明文件  1  份；
+④勘查项目资金来源的证明  1   份；
+⑤申请的区块范围图共  1  张；</NA_ACCESSORIES>
+        <!--完成情况-->
+        <NA_FINFISH_CIRCS/>
+        <!--申请理由-->
+        <NA_APPLY_REASON/>
+        <!--登记机关意见-->
+        <NA_REGISTER_GOV_OPINION/>
+        <!--注销备注-->
+        <NA_LOGOUT_APPENDIX/>
+        <!--注销附件-->
+        <NA_LOGOUT_ACCESSORIES/>
+</DATA>
+</APP>

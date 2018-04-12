@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="BUTONEEXTEND_EXT" systemlibrary="false">
+        <archive javadoc="jar:file:/D:/BeX5_V3.5/studio5.2/dropins/studio-app/doc/java/biz-api.javadoc.jar!/" path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/biz-api.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/biz-common.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/biz-ext-space.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/biz-model-parser.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/biz-system.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/commons-lang-2.3.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/decrypt.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/dom4j-1_6_1.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/jaxen-1_1_beta_9.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/message.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/transform.jar"/>
+        <archive path="D:/BeX5_V3.5/runtime/BusinessServer/WEB-INF/lib/fastjson-1.1.25.jar"/>
+    </library>
+</eclipse-userlibraries>
