@@ -406,18 +406,9 @@ public class SQLUtils {
 			boolean b = name_ROWID != null && keyName != null && !name_ROWID.equals(keyName);
 			List<Object> datas = b ? new ArrayList<Object>() : null;
 			String[] keys = b ? keyName.split(":") : null;
-			int cnt = 0;
-			boolean warn = false;
 			while (resultSet.next()) {
 				Row row = table.appendRow();
-				cnt++;
-				if (cnt > 2000 && !warn) {
-					warn = true;
-					logger.warn(new RuntimeException("query数据量2000条,sql=" + sql));
-				} else if (cnt > 5000) {
-					logger.warn("超过单次查询最大数据条数限制(5000),sql=" + sql);
-					throw new BusinessException("超过单次查询最大数据条数限制(5000),请联系系统管理员");
-				}
+				// TODO 数据加载行数的监控代码由biz-butone-monitor实现
 				Iterator<ColumnMetaData> localIterator = table.getMetaData().getColumnMetaDatas().iterator();
 				while (localIterator.hasNext()) {
 					ColumnMetaData col = (ColumnMetaData) localIterator.next();
